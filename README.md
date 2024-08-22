@@ -1,6 +1,4 @@
-Nexus 
-14 
-for collabs reach me on discord nexus9981080
-currently learning c 
-I know python , js and golang 
-i use Arch btw , get lost windows users 
+Radon86 
+14 years old 
+fullstack learner , my stack is golang net/http , HTMX , alpineJS , sqlite3 
+on telegram @Project_radiation998
