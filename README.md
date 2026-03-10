@@ -1,4 +1,4 @@
-Radon86 
-16 years old 
-fullstack learner , my stack is golang net/http , HTMX , alpineJS , sqlite3 
-on telegram @Project_radiation998
+# hello I'm radon 
+16 years old programmer , interested in web developement , machine learning and pretty much anything tech 
+
+i showcase my projects in my youtube channel go check it out @Radon86lol
